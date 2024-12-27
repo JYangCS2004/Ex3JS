@@ -1,0 +1,10 @@
+/.dccache
+/.vscode
+/__pycache__
+/design_decisions.txt
+/notes.txt
+/interface.py
+test.c
+test.py
+valgrind-python.supp
+static/test.html
